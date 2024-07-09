@@ -39,7 +39,6 @@ Before you begin, ensure you have the following installed:
 
 To run the application, use the following command:
 dotnet run
-Copy
 The API will be available at `https://localhost:5001` by default.
 
 ## API Endpoints
